@@ -17,6 +17,7 @@ public class Slotmachine {
     
     @Autowired Account account;
 
+    // Constructor
     public Slotmachine() {
         this.message = "Slot machine is initialized.";
     }
